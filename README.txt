@@ -3,6 +3,6 @@
 
 Welcome to my porfolio page!
 
-The <a href= "https://junghanan.github.io/">website </a> is where I display my previous projects/experiences and education/certifications.  
+The <a href="https://junghanan.github.io/"> website </a> is where I display my previous projects/experiences and education/certifications.  
 
 Link 
